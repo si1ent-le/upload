@@ -1,0 +1,34 @@
+<html>
+<head>
+	<meta charset='UTF-8'>
+</head>
+</br>
+</br>
+<h3  align="center">文件上传漏洞演示脚本</h3>
+</br>
+</br>
+</br>
+<p align="center">
+<a href=upfile1.php>1. 绕过前台脚本检测扩展名上传WebShell</a>
+</br>
+</br>
+<a href=upfile2.php>2. 绕过Content-Type检测文件类型上传WebShell</a>
+</br>
+</br>
+<a href=upfile3.php>3. 绕过服务端目录路径检测上传Webshell</a>
+</br>
+</br>
+<a href=upfile4.php>4. 绕过服务器端扩展名检测上传Webshell</a>
+</br>
+</br>
+<a href=upfile5.php>5. 构造图片马，绕过文件内容检测上传WebShell</a>
+</br>
+<br />
+<a href=upfile6.php>6. 利用.htaccess文件攻击上传WebShell</a>
+</br>
+<br />
+<a href=upfile7.php>7. 中国菜刀连接一句话木马</a>
+<br /><br />
+</p>
+
+</html>
