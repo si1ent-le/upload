@@ -39,18 +39,10 @@ PHP能够解析的后缀名有：php3、php4、php5、phtml等
 访问测试.
 ![](https://github.com/si1ent-le/upload/blob/master/images/filename_phtml_success.png)
 ### 6、文件头绕过
-GIF98a，还有其他方式可以修改并进行测试。
+修改图片头信息为GIF98a，还有其他方式可以修改并进行测试。
 ![](https://github.com/si1ent-le/upload/blob/master/images/gif98a.png)
 测试访问
 ![](https://github.com/si1ent-le/upload/blob/master/images/GIF98a_success.png)
-
-
-
-
-
-
-
-
 
 
 
