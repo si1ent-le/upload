@@ -6,7 +6,7 @@ PHP文件上传漏洞测试平台集合(互联网大佬铺路,拿来主义,如�
 ## 前言：
 文件上传属于常见的安全漏洞，基本用于webshell上传和测试使用
 ### 1、访问
-测试环境包含7和测试，主要测试前6个即可    
+测试环境包含7个本地测试.    
 http://fileload.me:8888/  
 ![image](https://github.com/si1ent-le/upload/blob/master/images/index.png)
 
