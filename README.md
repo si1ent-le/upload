@@ -9,4 +9,15 @@ PHP文件上传漏洞测试平台集合(互联网大佬铺路,拿来主义,如�
 测试环境包含7个本地测试.    
 http://fileload.me:8888/  
 ![image](https://github.com/si1ent-le/upload/blob/master/images/index.png)
+### 前台绕过
+绕过前端的JS验证   
+![](https://github.com/si1ent-le/upload/blob/master/images/js_.png)   
+test.jpg命名,进行抓包测试.
+![](https://github.com/si1ent-le/upload/blob/master/images/js2_.png)
+截包过程中修改后缀名
+![](https://github.com/si1ent-le/upload/blob/master/images/js_%20success.png)
+OK，上传成功。测试访问获取phpinfo信息
+![](https://github.com/si1ent-le/upload/blob/master/images/js_phpinfo.png)
+### 请求头内Content-Type验证绕过
+
 
